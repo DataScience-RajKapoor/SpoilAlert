@@ -1,0 +1,16 @@
+.pytest_cache/*
+.cache/*
+.tox/*
+__pycache__/*
+htmlcov/*
+.coverage
+.coverage.*
+coverage.xml
+*.pyc
+*.egg*/*
+dist/*
+.sh
+build/*
+docs/_build
+*.log
+venv
