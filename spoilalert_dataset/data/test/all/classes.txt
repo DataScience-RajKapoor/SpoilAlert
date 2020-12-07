@@ -1,0 +1,2 @@
+black_cup
+hand_hold_cup
