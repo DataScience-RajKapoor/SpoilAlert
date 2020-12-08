@@ -1,0 +1,7 @@
+1) Model inference in the cloud
+2) Install FFMPEG libraries in the cloud
+3) Run LabelImg in the cloud on Google Compute Engine as FFMPEG
+4) Create a custom stream of images from the videos to continously generate annotations and retrain the model periodically
+5) CI/CD for further development
+6) Add unit testing in the code
+
