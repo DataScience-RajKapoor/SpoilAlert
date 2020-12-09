@@ -1,0 +1,15 @@
+{
+   "folders": [
+      {
+         "path": ""
+      }
+   ],
+   "settings": {
+      "workbench.colorTheme": "light",
+      "workbench.iconTheme": "theia-file-icons",
+      "workspace.preserveWindow": true,
+      "preview.openByDefault": true,
+      "csharp.suppressDotnetRestoreNotification": false,
+      "go.useLanguageServer": true
+   }
+}
