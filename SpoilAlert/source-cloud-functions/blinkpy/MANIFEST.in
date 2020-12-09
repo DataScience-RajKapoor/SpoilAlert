@@ -1,4 +1,0 @@
-include README.rst
-include LICENSE.md
-include API.md
-include tests/*.py
